@@ -1,0 +1,2 @@
+- 👋 Hi, I’m Rostyslav Tsekhmystro
+- 👀 I’m interested in ML, Data Science and Image processing
